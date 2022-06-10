@@ -2,7 +2,7 @@
 - 👀 I’m interested in scalable software solutions 
 - :diamonds: I’m currently learning **Ruby** 
 - 💜 I’m looking to collaborate on creating *solutions to real problems* using software.
-- :moneybag: :hammer:
+- 🕐: :hammer:
 
 
 <!---
